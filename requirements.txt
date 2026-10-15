@@ -1,0 +1,27 @@
+# WRI LLM Pipeline Requirements
+# Python 3.9+
+
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# WhisperX transcription (Stage 1)
+whisperx>=3.3.0
+
+# LLM backends (Stage 3)
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+bitsandbytes>=0.40.0
+
+# LM Studio SDK (for gpt-oss models)
+lmstudio>=1.5.0
+
+# Optional backends (Stage 3)
+# ollama>=0.0.0      # For Ollama local inference
+# vllm>=0.2.0        # For vLLM inference server (experimental)
+
+# Statistics & Analysis (optional)
+scipy>=1.10.0
+scikit-learn>=1.2.0

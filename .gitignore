@@ -1,0 +1,60 @@
+# Data & Results (keep examples)
+*.csv
+!examples/**/*.csv
+*.xlsx
+*.xls
+*.RData
+*.Rdata
+*.rds
+
+# Audio & Transcripts (keep examples)
+*.wav
+*.mp3
+*.m4a
+*.vtt
+!examples/**/*.vtt
+
+# Text files (keep scripts & examples)
+*.txt
+!examples/**/*.txt
+!*.md
+!*.py
+!01_transcription/*.sh
+!02_preprocessing/*.py
+!03_llm_scoring/*.py
+!04_qa/*.py
+
+# Docs (keep all markdown)
+!prompts/**/*.md
+!docs/**/*.md
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# WRI-Prompt (Urheberrecht) nur lokal
+prompts/wri_prompt_*.txt
+prompts/*.local.*

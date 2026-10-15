@@ -1,0 +1,29 @@
+[SPEAKER_00]: Guten Tag. Ich bin heute hier, um mit dir einige Fragen zu deiner Aufmerksamkeit und deinem Verhalten zu stellen. Das sollte ungefähr eine Stunde dauern. Können wir beginnen?
+[SPEAKER_01]: Ja, gerne. Aber ich bin etwas nervös.
+[SPEAKER_00]: Das ist völlig normal. Also, erste Frage: Hast du generell Schwierigkeiten, dich auf eine Aufgabe zu konzentrieren?
+[SPEAKER_01]: Ja, definitiv. Mich fällt es sehr schwer, mich auf etwas zu fokussieren. Wenn ich am Computer arbeite, schweife ich ständig ab.
+[SPEAKER_00]: Wie lange kannst du dich typischerweise konzentrieren, bevor dich etwas ablenkt?
+[SPEAKER_01]: Vielleicht 10 oder 15 Minuten. Dann muss ich eine Pause machen oder etwas anderes machen.
+[SPEAKER_00]: Und wenn du versuchst, ein Buch zu lesen? Kannst du dich dabei konzentrieren?
+[SPEAKER_01]: Nein, absolut nicht. Ich lese eine Seite und verstehe kein Wort. Ich muss ständig zurückblättern.
+[SPEAKER_00]: Okay. Nun zu einem anderen Thema: Wie ist deine Stimmung normalerweise? Ist sie stabil oder veränderst sie sich schnell?
+[SPEAKER_01]: Meine Stimmung ist sehr instabil. Am Morgen bin ich vielleicht depressiv, am Nachmittag bin ich überdreht, und am Abend bin ich genervt.
+[SPEAKER_00]: Mehrmals am Tag?
+[SPEAKER_01]: Ja, mehrmals täglich. Das ist anstrengend.
+[SPEAKER_00]: Hast du jemals das Gefühl, dass dich kleine Dinge stark ärgern?
+[SPEAKER_01]: Sehr häufig. Mein Bruder sagt, ich habe ein echtes Temperament. Ich explodiere schnell und bereue es dann.
+[SPEAKER_00]: Wie oft passiert das ungefähr?
+[SPEAKER_01]: Mehrmals die Woche, würde ich sagen.
+[SPEAKER_00]: Und wie ist deine Aktivität? Bist du eher ruhig oder aktiv?
+[SPEAKER_01]: Ich bin nicht ruhig. Ich kann nicht stillsitzen. Meine Beine zappeln ständig, und ich muss ständig aufstehen und herumlaufen.
+[SPEAKER_00]: Auch im Büro oder in der Schule?
+[SPEAKER_01]: Besonders dort. Das ist peinlich. Die Lehrer sagten immer, ich soll stillsitzen.
+[SPEAKER_00]: Okay. Nun zu Impulsivität: Machst du manchmal Dinge, ohne nachzudenken?
+[SPEAKER_01]: Ja, häufig. Ich kaufe Dinge impulsiv, unterbreche andere, spreche einfach, ohne nachzudenken.
+[SPEAKER_00]: Gibt es Probleme mit Finanzmanagement?
+[SPEAKER_01]: Ja, ich gebe Geld aus, ohne zu planen. Meine Schulden sind ein großes Problem.
+[SPEAKER_00]: Wie organisierst du deine Aufgaben?
+[SPEAKER_01]: Nicht gut. Ich bin sehr desorganisiert. Ich verliere ständig Dinge, vergesse Termine und fange viele Projekte an, beende aber nichts.
+[SPEAKER_00]: Seit wann hast du diese Probleme?
+[SPEAKER_01]: Seit der Kindheit. Meine Eltern sagen, dass ich immer ein wildes, unruhiges Kind war. In der Schule hatte ich auch Probleme, mich zu konzentrieren.
+[SPEAKER_00]: Danke für deine Offenheit. Das war sehr hilfreich.
